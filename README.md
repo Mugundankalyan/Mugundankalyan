@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mugundankalyan
 
 🎓 **Student** | 💻 Java, Rust & Machine Learning Enthusiast  
-Passionate about building robust solutions at the intersection of software engineering and artificial intelligence.
+Passionate about building robust solutions at the intersection of software engineering, artificial intelligence, and digital hardware design.
 
 ---
 
@@ -9,28 +9,37 @@ Passionate about building robust solutions at the intersection of software engin
 
 - **Languages:** Java, Rust
 - **Machine Learning:** Model development, data processing, and deployment
+- **Hardware Design:** SystemVerilog, Digital Logic Design
 - **Frameworks & Tools:** TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [Real-Time ECG Arrhythmia Classification Using a Transformer Model](https://github.com/Mugundankalyan/ecg_classifier)
-
 - **Overview:**  
   Developed a transformer-based neural network model to classify arrhythmias from ECG signals in real time, leveraging the MIT-BIH Arrhythmia Database.
 - **Key Highlights:**
-  - Preprocessing pipeline: R-peak detection, windowing, normalization, and data augmentation
+  - Comprehensive preprocessing (R-peak detection, windowing, normalization, and augmentation)
   - Custom transformer architecture for sequential ECG data
   - Achieved high accuracy in classifying Normal, PVC, APC, LBBB, and RBBB heartbeats
-  - Tested with real-time inference and visualization of ECG signals
+  - Real-time inference and visualization of ECG signals
 - **Tech Stack:** Python, TensorFlow, scikit-learn, Matplotlib
-
-> _“The detection of arrhythmias in ECG signals is crucial for diagnosing and preventing cardiac conditions. This project demonstrates the power of deep learning in healthcare.”_
 
 ---
 
-## 📈 Stats
+### [8-bit VeriRISC CPU](https://github.com/Mugundankalyan/8-bit-VeriRISC-cpu)
+- **Overview:**  
+  Designed and implemented an 8-bit RISC (Reduced Instruction Set Computing) CPU using SystemVerilog.
+- **Key Highlights:**
+  - Full custom architecture and instruction set
+  - Written in 100% SystemVerilog
+  - Emphasis on digital logic optimization and clarity
+- **Tech Stack:** SystemVerilog
+
+---
+
+## 📈 GitHub Stats
 
 ![Mugundankalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugundankalyan&show_icons=true&theme=default)
 
