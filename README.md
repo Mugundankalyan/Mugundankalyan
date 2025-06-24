@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I’m Mugundankalyan
 
+🎓 **Student** | 💻 Java, Rust & Machine Learning Enthusiast  
+Passionate about building robust solutions at the intersection of software engineering and artificial intelligence.
+
+---
+
+## 🏆 Top Skills
+
+- **Languages:** Java, Rust
+- **Machine Learning:** Model development, data processing, and deployment
+- **Frameworks & Tools:** TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib
+
+---
+
+## 🚀 Featured Project
+
+### [Real-Time ECG Arrhythmia Classification Using a Transformer Model](https://github.com/Mugundankalyan/ecg_classifier)
+
+- **Overview:**  
+  Developed a transformer-based neural network model to classify arrhythmias from ECG signals in real time, leveraging the MIT-BIH Arrhythmia Database.
+- **Key Highlights:**
+  - Preprocessing pipeline: R-peak detection, windowing, normalization, and data augmentation
+  - Custom transformer architecture for sequential ECG data
+  - Achieved high accuracy in classifying Normal, PVC, APC, LBBB, and RBBB heartbeats
+  - Tested with real-time inference and visualization of ECG signals
+- **Tech Stack:** Python, TensorFlow, scikit-learn, Matplotlib
+
+> _“The detection of arrhythmias in ECG signals is crucial for diagnosing and preventing cardiac conditions. This project demonstrates the power of deep learning in healthcare.”_
+
+---
+
+## 📈 Stats
+
+![Mugundankalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugundankalyan&show_icons=true&theme=default)
+
+---
+
+<!-- Optionally add social links here -->
 <!--
-**Mugundankalyan/Mugundankalyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [LinkedIn](your-link)
+- [Twitter](your-link)
 -->
+
+---
+
+_Always open to collaboration and learning new technologies!_
