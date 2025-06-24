@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mugundankalyan
 
-🎓 **Student** | 💻 Java, Rust & Machine Learning Enthusiast  
+🎓 **Student** | 💻 Java, Rust, Python & Machine Learning Enthusiast  
 Passionate about building robust solutions at the intersection of software engineering, artificial intelligence, and digital hardware design.
 
 ---
