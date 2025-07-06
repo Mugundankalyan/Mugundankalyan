@@ -7,7 +7,7 @@ Passionate about building robust solutions at the intersection of software engin
 
 ## 🏆 Top Skills
 
-- **Languages:** Java, Rust
+- **Languages:** Java, Rust, SystemVerilog, C++
 - **Machine Learning:** Model development, data processing, and deployment
 - **Hardware Design:** SystemVerilog, Digital Logic Design
 - **Frameworks & Tools:** TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib
@@ -16,15 +16,16 @@ Passionate about building robust solutions at the intersection of software engin
 
 ## 🚀 Featured Projects
 
-### [Real-Time ECG Arrhythmia Classification Using a Transformer Model](https://github.com/Mugundankalyan/ecg_classifier)
+### [Assistance System for Heart Patients](https://github.com/Mugundankalyan/assistance_system_for_heart_patients)
 - **Overview:**  
-  Developed a transformer-based neural network model to classify arrhythmias from ECG signals in real time, leveraging the MIT-BIH Arrhythmia Database.
+  An intelligent platform designed to monitor and support individuals with heart conditions. It collects health data, analyzes trends, and provides real-time alerts and recommendations for patients and caregivers.
 - **Key Highlights:**
-  - Comprehensive preprocessing (R-peak detection, windowing, normalization, and augmentation)
-  - Custom transformer architecture for sequential ECG data
-  - Achieved high accuracy in classifying Normal, PVC, APC, LBBB, and RBBB heartbeats
-  - Real-time inference and visualization of ECG signals
-- **Tech Stack:** Python, TensorFlow, scikit-learn, Matplotlib
+  - Real-time monitoring of heart rate, ECG, blood pressure, and more
+  - Automated alert system for abnormal readings and emergencies
+  - Data visualization via intuitive dashboards
+  - Secure records and remote access for medical staff
+  - Personalized reminders for lifestyle and medication
+- **Tech Stack:** Python, Machine Learning, IoT Integration, Web (Streamlit)
 
 ---
 
@@ -41,25 +42,6 @@ Passionate about building robust solutions at the intersection of software engin
 ### [Calendar](https://github.com/Mugundankalyan/calendar)
 - **Overview:**  
   A project focused on building a calendar application to keep track of Online courses.  
-- **Tech Stack:** PHP, JavaScript, CSS
-
----
-
-
-## 📈 GitHub Stats
-
-![Mugundankalyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mugundankalyan&show_icons=true&theme=default)
-
----
-
-<!-- Optionally add social links here -->
-<!--
-## 🌐 Connect with me
-
-- [LinkedIn](your-link)
-- [Twitter](your-link)
--->
-
----
+- **Tech Stack:** PHP, JavaScript, CSS, MySQL
 
 _Always open to collaboration and learning new technologies!_
