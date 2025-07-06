@@ -26,6 +26,10 @@ Passionate about building robust solutions at the intersection of software engin
   - Secure records and remote access for medical staff
   - Personalized reminders for lifestyle and medication
 - **Tech Stack:** Python, Machine Learning, IoT Integration, Web (Streamlit)
+- **Subproject:**  
+  - [ECG Tracker Website](https://github.com/Mugundankalyan/ecg_tracker_website):  
+    A web-based application for tracking and visualizing ECG data.  
+    **Tech Stack:** HTML, Python
 
 ---
 
