@@ -38,6 +38,13 @@ Passionate about building robust solutions at the intersection of software engin
 - **Tech Stack:** SystemVerilog
 
 ---
+### [Calendar](https://github.com/Mugundankalyan/calendar)
+- **Overview:**  
+  A project focused on building a calendar application to keep track of Online courses.  
+- **Tech Stack:** PHP, JavaScript, CSS
+
+---
+
 
 ## 📈 GitHub Stats
 
