@@ -29,7 +29,7 @@ Passionate about building robust solutions at the intersection of software engin
 - **Subproject:**  
   - [ECG Tracker Website](https://github.com/Mugundankalyan/ecg_tracker_website):  
     A web-based application for tracking and visualizing ECG data.  
-    **Tech Stack:** HTML, Python
+    **Tech Stack:** HTML, CSS, Python
 
 ---
 
@@ -46,6 +46,6 @@ Passionate about building robust solutions at the intersection of software engin
 ### [Calendar](https://github.com/Mugundankalyan/calendar)
 - **Overview:**  
   A project focused on building a calendar application to keep track of Online courses.  
-- **Tech Stack:** PHP, JavaScript, CSS, MySQL
+- **Tech Stack:** PHP, HTML, JavaScript, CSS, MySQL
 
 _Always open to collaboration and learning new technologies!_
