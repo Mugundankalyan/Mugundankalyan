@@ -7,7 +7,7 @@ Passionate about building robust solutions at the intersection of software engin
 
 ## 🏆 Top Skills
 
-- **Languages:** Java, Rust, SystemVerilog, C++
+- **Languages:** Java, Rust, SystemVerilog, C++ and Python
 - **Machine Learning:** Model development, data processing and deployment
 - **Hardware Design:** SystemVerilog, Digital Logic Design
 - **Frameworks & Tools:** TensorFlow, scikit-learn, Keras, Pandas, NumPy, Matplotlib
